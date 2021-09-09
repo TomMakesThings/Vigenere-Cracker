@@ -23,6 +23,7 @@ The Vigenère cipher is hard to crack providing a key is never reused. However, 
 - Read in two ciphertexts encrypted with the same key
   - For example C1: `CIYWCUXEEK` and C2: `LLBCXVTOVK`
   - These do not have to be the same length
+  - You can encrypt words using an online tool such as [https://www.dcode.fr/vigenere-cipher](https://www.dcode.fr/vigenere-cipher)
 - Create a list of potential keys for each ciphertext
   - The ciphertext is compared to each word in the text file by calculating the difference between the numerical values of letters in the same positions.
   - Each numerical difference is converted to a character.
