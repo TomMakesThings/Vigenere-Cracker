@@ -2,7 +2,7 @@
   <h1>Vigenère Cipher Cracker</h1>
   <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/61354833?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d">
   <p><b>Code by <a href="https://github.com/TomMakesThings">TomMakesThings</a></b></p>
-  <p><b><sub>June 2020</sub></b></p>
+  <p><b><sub>November 2020</sub></b></p>
 </div>
 
 ---
